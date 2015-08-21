@@ -1,7 +1,5 @@
 # Learn Bower in x minutes
 
-[TOC]
-
 ## What's Bower
 
 Web sites are made of lots of things — frameworks, libraries, assets, utilities, and rainbows. Bower manages all these things for you.
