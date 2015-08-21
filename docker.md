@@ -1,7 +1,5 @@
 # Learn Docker in x minutes
 
-[TOC]
-
 ## What's Docker
 
 Docker is a platform for developers and sysadmins to develop, ship, and run applications. It's created in the early of 2013 and based on Linux container LXC.
