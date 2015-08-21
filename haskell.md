@@ -1,7 +1,5 @@
 # Learn Haskell in x minutes
 
-[TOC]
-
 Haskell is an advanced purely-functional programming language.
 
 ## Installation
