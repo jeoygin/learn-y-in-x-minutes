@@ -1,7 +1,5 @@
 # Learn Prolog in x minutes
 
-[TOC]
-
 Prolog is a general purpose logic programming language associated with artificial intelligence and computational linguistics.
 
 Prolog has its roots in first-order logic, a formal logic, and unlike many other programming languages, Prolog is declarative: the program logic is expressed in terms of relations, represented as facts and rules. A computation is initiated by running a query over these relations.
